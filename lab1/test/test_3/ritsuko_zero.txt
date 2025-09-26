@@ -1,0 +1,5 @@
+0 Can MAGI system process line zero?
+00 MAGI-1 MELCHIOR approves
+000 MAGI-2 BALTHASAR approves
+1 MAGI-3 CASPER rejects
+01 System recalculating

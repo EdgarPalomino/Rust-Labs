@@ -1,0 +1,8 @@
+NERV Synchronization Test: Error Handling Protocol
+Shinji shinji_malformed.txt
+
+
+Misato misato_empty.txt
+Gendo gendo_silent.txt
+
+Asuka asuka_malformed.txt  extra tokens ignored here

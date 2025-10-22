@@ -1,0 +1,14 @@
+1 I mustn't run away
+not_a_number This line should be skipped
+2 I mustn't run away
+
+3 I mustn't run away
+   
+4    Get in the robot   
+only_one_token
+5
+6 Father, why won't you look at me?
+seven This has text instead of number
+8.5 Floating point should fail
+-9 Negative number should fail
+10 I'm home

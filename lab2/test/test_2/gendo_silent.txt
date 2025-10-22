@@ -1,0 +1,5 @@
+No numbers here at all
+This character has no valid lines
+Just brooding without line numbers
+Should result in a silent character
+All according to the scenario
